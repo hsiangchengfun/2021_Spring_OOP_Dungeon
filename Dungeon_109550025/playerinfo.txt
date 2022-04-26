@@ -1,0 +1,3 @@
+bill 60 150 70 20 1000 7 6 2
+Mysterious Potion Item 200 200 999 100 1000
+Golden Armor Item 0 0 0 50 0

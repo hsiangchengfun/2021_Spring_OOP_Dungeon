@@ -1,0 +1,8 @@
+No 
+No 
+No 
+No 
+Monster willie -50 70 15 10 
+Monster Sram 0 350 35 20 
+NPC Danzel Mars Potion Item 100 100 0 0 400 DingDing Potion Item 0 0 60 0 600
+Monster ZK7 2000 2000 50 30 
